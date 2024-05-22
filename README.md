@@ -11,8 +11,8 @@ In this course, You will practice more labs of Docker. This will help you to mas
 
 ## Scenarios
 
-|   Index | Name                                       | Difficulty   | URL                                                                        |
-|---------|--------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                      | Difficulty   | URL                                                                        |
+|---------|-------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Spaceport Container Deployment          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268715'>Start Lab</a>       |
 |      02 | 📖 Dragonias Docker Container Quest        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268702'>Start Lab</a>       |
 |      03 | 📖 Docker Container Discovery Adventure    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268704'>Start Lab</a>       |
