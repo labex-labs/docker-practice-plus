@@ -11,7 +11,7 @@ In this course, You will practice more labs of Docker. This will help you to mas
 
 ## Scenarios
 
-|   Index | Name                                      | Difficulty   | URL                                                                        |
+|   Index | Name                                      | Difficulty   | Practice                                                                   |
 |---------|-------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Spaceport Container Deployment          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268715'>Start Lab</a>       |
 |      02 | 📖 Dragonias Docker Container Quest        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268702'>Start Lab</a>       |
@@ -64,4 +64,9 @@ In this course, You will practice more labs of Docker. This will help you to mas
 |      49 | 📖 Managing Data in Containers             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148984'>Start Lab</a>       |
 |      50 | 📖 Adding Value with Custom Docker Images  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148983'>Start Lab</a>       |
 |      51 | 📖 Docker Images Deeper Dive               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67460'>Start Lab</a>        |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
 
