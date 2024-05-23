@@ -67,6 +67,7 @@ In this course, You will practice more labs of Docker. This will help you to mas
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
 
